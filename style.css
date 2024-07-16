@@ -1,0 +1,40 @@
+
+
+.header{
+   background-color: #1f2937;
+}
+
+.boxheader{
+    background-color: white;
+    color: black;
+}
+
+
+.logo{
+    color:white;
+}
+
+.nav a{
+    color: white;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    color: white;
+}
+
+.boxheader{
+    color: white;
+}
+
+.quote{
+    color: white;
+}
+
+.footer{
+    color: white;
+}
