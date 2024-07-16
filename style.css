@@ -4,37 +4,52 @@
    background-color: #1f2937;
 }
 
-.boxheader{
-    background-color: white;
-    color: black;
-}
-
-
-.logo{
-    color:white;
-}
-
 .nav a{
     color: white;
+    text-decoration: none;
+
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: -18px 300px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo{
+    color: white;
+}
+.header{
+    color: white;
+
+}
+
+.random{
+    display: flex;
+    justify-content: center;
+}
+
+
+.boxes{
+    display: flex;
+    justify-content: center;
     
+
 }
 
-ul{
-    list-style: none;
-}
+.box{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 20px;
+    border: 100px red;
 
-.container{
-    color: white;
-}
+    background-color: #1f2937;
+    display: flex;
 
-.boxheader{
-    color: white;
-}
 
-.quote{
-    color: white;
-}
-
-.footer{
-    color: white;
 }
